@@ -2,7 +2,7 @@
  * Credits to https://github.com/darrylhodgins/typescript-memoize
  */
 
-import assert from "assert";
+import assert from "minimalistic-assert";
 
 /* eslint-disable no-param-reassign */
 /* eslint-disable no-restricted-syntax */
